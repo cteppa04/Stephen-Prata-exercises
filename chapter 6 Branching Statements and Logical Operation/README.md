@@ -1,3 +1,4 @@
+Chapter 6: Branching Statements and Logical Operators
 1. Display non-numeric characters
 2. Average value of the donation
 3. Simple menu
