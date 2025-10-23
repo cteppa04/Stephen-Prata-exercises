@@ -1,3 +1,4 @@
+Chapter 3: Dealing with Data
 1. Convert centimeters to feet and inches
 2. Calculate BMI
 3. Convert degrees, minutes, and seconds to degrees
