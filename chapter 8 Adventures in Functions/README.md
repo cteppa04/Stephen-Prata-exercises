@@ -1,3 +1,4 @@
+Chapter 8: Adventures in Functions
 1. Display text n times
 2. Set structure values
 3. Convert text to uppercase
