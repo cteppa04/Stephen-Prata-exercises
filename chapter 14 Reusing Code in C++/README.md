@@ -1,3 +1,4 @@
+Chapter 14: Reusing Code in C++
 1. Wine(fields)
 2. Wine(private inheritance)
 3. Queue template
