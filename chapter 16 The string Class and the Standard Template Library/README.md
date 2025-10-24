@@ -1,3 +1,4 @@
+Chapter 16: The string Class and the Standard Template Library
 1. Simple palindrome
 2. Advanced palindrome
 3. Hangman

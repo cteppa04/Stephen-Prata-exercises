@@ -1,3 +1,4 @@
+Chapter 12: Classes and Dynamic Memory Allocation
 1. Cows
 2. String class
 3. Companies

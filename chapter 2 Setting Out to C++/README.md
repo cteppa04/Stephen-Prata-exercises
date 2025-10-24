@@ -1,3 +1,4 @@
+Chapter 2: Setting Out to C++
 1. Display text message
 2. Convert miles to kilometers
 3. Simple functions

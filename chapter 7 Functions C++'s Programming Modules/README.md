@@ -1,3 +1,4 @@
+Chapter 7: Functions: C++'s Programming Modules
 1. Harmonic mean
 2. Average of golf scores
 3. Functions and structures

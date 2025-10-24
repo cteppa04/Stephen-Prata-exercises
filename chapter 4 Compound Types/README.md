@@ -1,3 +1,4 @@
+Chapter 4: Compound Types
 1. User input and char arrays
 2. User input and string
 3. Concatenate char arrays

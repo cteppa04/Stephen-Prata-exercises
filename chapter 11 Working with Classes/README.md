@@ -1,3 +1,4 @@
+Chapter 11: Working with Classes
 1. Vector random walk
 2. Modified vector class
 3. Random walk statistics
